@@ -2,6 +2,9 @@
 
 <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src ="https://img.shields.io/badge/Direct_X-006600?style=for-the-badge&logo=directx&logoColor=black"> <img src ="https://img.shields.io/badge/MFC-%23E34F26?style=for-the-badge&logo=mfc&logoColor=white"> <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 
+## Project
+이 프로젝트는 현재 미완성 상태입니다. 향후 업데이트를 통해 기능 추가와 버그 수정을 진행할 예정입니다.
+
 ## Overview
 
 DirectX와 MFC를 활용하여 제작된 Map Tool로, 게임 맵을 제작하기 위한 다양한 기능을 제공합니다.
@@ -39,3 +42,17 @@ DirectX와 MFC를 활용하여 제작된 Map Tool로, 게임 맵을 제작하기
 * 카메라 회전 : 마우스 우 클릭 드래그
 
 * 마우스 피킹 : 마우스 좌 클릭
+
+|  |   |
+|---|---|
+|메인 화면|맵 생성|
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/cb35d270-4e7e-43f7-8f96-c35718011f03">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/96f1f44a-0abe-46eb-b90d-ace255e7af66">|
+|FBX 로드|FBX 배치|
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/7136bbef-866d-4dfb-9066-56439b1ee4d4">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/d677c141-f013-4740-835b-b3816e9c0a96">|
+|오브젝트의 Transform| 맵 페인팅 |
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/7ccf6e63-1a1d-404b-b0cb-6ea711df0202"> |<img width="450" alt="image" src="https://github.com/user-attachments/assets/da2541df-b716-4b95-9369-c3e99669294a">
+|맵 높이 조절 화면| 맵 높이 조절 |
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/f2069afe-6bce-4c9f-9bb4-4385b04ceecc"> |<img width="450" alt="image" src="https://github.com/user-attachments/assets/2183d7c4-5179-4296-83dd-35fc93ed5795"> | 
+
+
+

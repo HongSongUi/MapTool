@@ -21,6 +21,21 @@ DirectX와 MFC를 활용하여 제작된 Map Tool로, 게임 맵을 제작하기
 
 - **맵 높이 조절** : 마우스 피킹 기능을 사용하여 맵의 높이를 조절 가능.
 
+## Setting
+1. **파일 구조**: 실행 파일의 상위 폴더에 `data`, `fbx`, `_shader` 폴더가 있어야 합니다.
+   - `data`, `fbx` 파일의 이름이나 위치를 변경하면 데이터를 불러올 수 없습니다.
+     
+   ![파일 구조](https://github.com/user-attachments/assets/eb82801d-44ae-4f12-ab02-567f539b4ac1)
+
+2. **필요한 파일**: 실행 파일과 같은 폴더에 `fmod.dll`과 `DefaultMap.hlsl` 파일이 필요합니다.
+   ![필요한 파일](https://github.com/user-attachments/assets/b39027d2-8754-43d6-83ee-9c5acb1f921b)
+
+* 위 과정은 Release 파일을 생성해(exe파일) 실행할 경우에 해당합니다.
+
 ## How To Use
 
-* 
+* 카메라 이동 : 키보드 W, A, S, D
+
+* 카메라 회전 : 마우스 우 클릭 드래그
+
+* 마우스 피킹 : 마우스 좌 클릭
